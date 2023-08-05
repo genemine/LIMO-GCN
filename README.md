@@ -16,5 +16,7 @@ The data contains AD-associated genes, negative genes, a subset of AD-brain func
   * scipy
   * sklearn
 ## Usage
+  * Unzip feature.txt.zip
+  * Download the full version of AD-brain functional gene network as adjacency matrix.
 ```python train.py```
-  * Note:The adjacency matrix (FGN.txt) in dataset file is  a subset of AD-brain functional gene network. Users need to download the full version from https://zenodo.org/deposit/8216389 to replace.
+   Note:The adjacency matrix (FGN.txt) in dataset file is  a subset of AD-brain functional gene network. Users need to download the full version from https://zenodo.org/deposit/8216389 to replace.
