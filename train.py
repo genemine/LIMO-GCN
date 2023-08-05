@@ -112,7 +112,7 @@ def crossvalidation(a,num,lam):
     print('AUPRC:'+str(round(auprc,4)))
     return auc,auprc
 # Load data
-adj, features, genes,labels,yk = load_data(path="data/",path_feature="data/feature.txt")
+adj, features, genes,labels,yk = load_data(path="data/",path_feature="data/toyfeature.txt")
 
 
 lam=0.6
