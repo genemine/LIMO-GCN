@@ -10,3 +10,5 @@ The data contains AD-associated genes, negative genes, a subset of AD-brain func
   * pandas
   * scipy
   * sklearn
+## Usage
+```python train.py```
