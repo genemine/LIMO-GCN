@@ -9,6 +9,7 @@ The data contains AD-associated genes, negative genes, a subset of AD-brain func
 # Requirements
   * PyTorch 0.4 or 0.5
   * Python 2.7 or 3.6
+## Python Libraries
   * numpy
   * torch
   * pandas
